@@ -1,2 +1,3 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+I am a Senior Software Engineer at Roku, where I lead Vector Search in the search org. My primary interest lies in brigning novel machine learning techniques to the search and recommendations domain. Before Roku, I worked as a Machine Learning engineer at Adobe, on the search team.
+
+I live in San Francisco with my daughter, husband, and dog.
