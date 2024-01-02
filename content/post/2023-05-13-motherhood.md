@@ -1,6 +1,7 @@
 ---
 title: Motherhood
 date: 2023-05-13
+bigimg: [{src: "/img/motherhood.jpeg"}]
 ---
 
 When I was 12 years old, I had an epiphany. I knew I wanted to raise a daughter, just like momma was raising me. That 12 year old me knew it in her bones. It was so clearly obvious to her that one day she was going to be a mother to a daughter. Boys were very silly, so why marry? I was going to adopt! I told momma and she was so proud of me. She had high praise for my idea. The thought was so pure and simple, yet so profound.
