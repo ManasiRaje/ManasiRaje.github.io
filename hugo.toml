@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+homeTitle = " " # Set a different text for the header on the home page
   subtitle = "Engineer, Mother, Dreamer"
   mainSections = ["post","posts"]
   logo = "img/manasi-avatar.png" # Expecting square dimensions
